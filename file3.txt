@@ -1,2 +1,4 @@
 Fav sport
 --> Vollyball
+fav color
+--> Blue
